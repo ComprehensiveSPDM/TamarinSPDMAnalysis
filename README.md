@@ -1,6 +1,9 @@
 # SPDM as a whole - Tamarin Models
 
-Anonymized
+This repository contains all models of the 
+'Breaking and Provably Restoring Authentication: A Formal Analysis of SPDM 1.2 including Cross-Protocol Attacks'
+paper by [Cas Cremers](https://people.cispa.io/cas.cremers/), [Alexander Dax](https://www.alexanderdax.org/), and [Aurora Naska](https://auroranaska.github.io/). The full version
+of the paper can be found on [eprint](https://eprint.iacr.org/2024/2047)
 
 ## Tamarin
 
@@ -58,6 +61,3 @@ Compare the results in the `results` folder with the precomputed results in `bas
 
 In case you face any timeouts within the results, you can increase the `TIMEOUT` value in the `case_studies.sh` and run it again.
 
-## Contributers
-
-Anonymized
